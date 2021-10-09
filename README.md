@@ -62,4 +62,4 @@ I documented a total of six optimization runs.  My changes and results are in th
 
 I am disappointed that I was not able to achieve 75% accuracy with a deep learning model.  I considered increasing the amount of epochs significantly, but the amount of time it took for each run became prohibitive.  As an investigation, I tried classifying the data using a RandomForest classifier (see below) and got a very similar, albeit slightly lower, accuracy.  Because of the ease of using and running a RandomForest classifier, I would recommend the model be used, if a more efficient deep learning model cannot be found.
 
-![](
+![](Images/RF_classifier.PNG)
